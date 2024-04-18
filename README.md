@@ -1,5 +1,4 @@
-# Databases and Python
+# Using python to connect to Databases
 Querying northwind database using python [postgres](), [mysql](), [sqlite](), [Azure](), [MongoDB]()
 
-![image](https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/7f81de4a-5bd2-4b07-b2d9-9fb941706e42)
-
+![image](https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/6040302a-5e77-429d-b1c8-22d0613fe8df)
