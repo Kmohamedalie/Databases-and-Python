@@ -17,3 +17,10 @@ https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/7dbeba51-7c
 
 https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/25462c04-fa7e-4104-bcab-c24cfe1930ce
 
+<br>
+
+### **3.MySql Gui, mysql client cli, JupyterNB**
+
+
+https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/1bac0893-0b53-44ae-a335-c5e874c55f7a
+
