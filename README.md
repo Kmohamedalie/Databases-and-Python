@@ -6,13 +6,14 @@ Note you might see weird characters but you can encode them according to your sy
 
 <br>
 
-**1. PostgresSql Gui & JupyterNB**
+### **1. PostgresSql Gui & JupyterNB**
 
 
 https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/7dbeba51-7c08-49f0-afff-e3a7f62fec13
 
 <br>
 
-**1.Sqlite3 Gui & JupyterNB**
+### **2.Sqlite3 Gui & JupyterNB**
 
+https://github.com/Kmohamedalie/Databases-and-Python/assets/63104472/25462c04-fa7e-4104-bcab-c24cfe1930ce
 
